@@ -179,7 +179,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Focused on clean code principles
 - Comprehensive input validation
 - User-friendly interface
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
