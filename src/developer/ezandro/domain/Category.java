@@ -26,6 +26,6 @@ public enum Category {
                 return category;
             }
         }
-        throw new CategoryNotFoundException(String.format("ERROR: Category %s not found. Please choose a valid category number.", option));
+        throw new CategoryNotFoundException(String.format("ERROR: Category %d not found. Please choose a valid category number.", option));
     }
 }
